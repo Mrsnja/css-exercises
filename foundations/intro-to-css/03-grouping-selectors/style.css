@@ -1,0 +1,21 @@
+/* ===================================
+   Project: 03-grouping-selectors
+   Author: Ashley Jagla
+   Purpose: Learn class grouping exercise
+   Last Updated: 2025-07-05
+=================================== */
+
+.standard {
+    font-size: 28px;
+    font-family:'Helvetica', 'Times New Roman', sans-serif;
+    font-weight: bold;
+}
+
+.standard.classic {
+    color: #f0f4f8;
+    background-color: #222222;
+}
+
+.standard.options {
+    background-color: rgb(255, 255, 117);
+}
