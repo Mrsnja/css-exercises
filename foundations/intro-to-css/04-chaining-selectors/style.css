@@ -1,1 +1,16 @@
-/* Add CSS Styling */
+/* ===================================
+   Project: 04-chaining-selectors
+   Author: Ashley Jagla
+   Purpose: Chaining Selectors Exercise
+   Last Updated: 2025-07-05
+=================================== */
+
+.avatar.avatar.proportioned {
+    width: 300px;
+    height: auto;
+}
+
+.avatar.distorted {
+    width: 200px;
+    height: 400px;
+}
