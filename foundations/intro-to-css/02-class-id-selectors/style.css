@@ -1,0 +1,26 @@
+/* ===================================
+   Project: 02-class-id-selectors
+   Author: Ashley Jagla
+   Purpose: Using class and id effectively
+   Last Updated: 2025-07-05
+=================================== */
+
+.odd {
+    background-color: lightcoral;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#first {
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.cooler {
+    font-size: 24px;
+}
+
+#second {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
