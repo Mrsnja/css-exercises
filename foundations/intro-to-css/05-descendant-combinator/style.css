@@ -1,0 +1,15 @@
+/* ====================================
+    Project Name: 05-decendant-combinators
+    Author: Ashley Jagla
+    Purpose: Use decendant combinators
+    Date: 07/05/2025
+    ==================================*/
+
+/* Reset */
+
+.container .text {
+    background-color: rgb(239, 239, 145);
+    color: rgb(185, 15, 15);
+    font-size: 20px;
+    text-align: center;
+}
